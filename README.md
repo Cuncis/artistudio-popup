@@ -34,7 +34,7 @@ OR
 
 #### **Step 1: Download ZIP Repository**
 ```sh
-Go to https://github.com/cuncis/artistudio-popup.git > [<> Code] > Download ZIP
+Go to [https://github.com/cuncis/artistudio-popup.git](https://github.com/cuncis/artistudio-popup.git) on your browser > Click **[<> Code]** > Select **Download ZIP**.
 ```
 
 #### **Step 2: Activate the Plugin**
