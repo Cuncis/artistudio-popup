@@ -40,7 +40,7 @@ Go to https://github.com/cuncis/artistudio-popup.git on your browser > Click [<>
 #### **Step 2: Activate the Plugin**
 1. Navigate to **Plugins > Add New**.
 2. Click **Upload Plugin**.
-3. Select the **artistudio-popup.zip or artistudio-popup-master.zip** file.
+3. Select the **artistudio-popup.zip** or **artistudio-popup-master.zip** file.
 4. Click **Install Now**.
 5. Then **Activate the plugin** after installation.
 
