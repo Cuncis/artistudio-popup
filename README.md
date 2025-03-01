@@ -34,21 +34,20 @@ OR
 
 #### **Step 1: Download ZIP Repository**
 ```sh
-Go to https://github.com/cuncis/artistudio-popup.git
-Download ZIP
+Go to https://github.com/cuncis/artistudio-popup.git > [<> Code] > Download ZIP
 ```
 
 #### **Step 2: Activate the Plugin**
 1. Navigate to **Plugins > Add New**.
 2. Click **Upload Plugin**.
-3. Select the **artistudio-popup.zip** file.
+3. Select the **artistudio-popup.zip/artistudio-popup-master.zip** file.
 4. Click **Install Now**.
 5. Then **Activate the plugin** after installation.
 
 
 ## Usage Guide
 
-### ** Adding a New Popup**
+### **Adding a New Popup**
 1. Go to **Admin > Popups > Add New**.
 2. Fill in the **Title** and **Description**.
 3. Select the **Page** where the popup should appear.
